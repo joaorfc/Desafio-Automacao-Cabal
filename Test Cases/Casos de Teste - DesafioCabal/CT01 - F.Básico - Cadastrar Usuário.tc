@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT01 - F.Básico - Cadastrar Usuário</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b2f53bd-cce4-49ec-b5f0-94bd67c6cc5b</testCaseGuid>
+</TestCaseEntity>

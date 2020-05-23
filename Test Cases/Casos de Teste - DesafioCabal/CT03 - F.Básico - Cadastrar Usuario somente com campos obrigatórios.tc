@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT03 - F.Básico - Cadastrar Usuario somente com campos obrigatórios</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbbe028c-0db2-4bd2-bc2d-55f49fae51ae</testCaseGuid>
+</TestCaseEntity>

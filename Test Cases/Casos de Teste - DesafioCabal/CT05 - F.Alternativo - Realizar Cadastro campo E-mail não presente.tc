@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT05 - F.Alternativo - Realizar Cadastro campo E-mail não presente</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0d2e840-6c23-4e6e-b9d2-bfa8a6a46429</testCaseGuid>
+</TestCaseEntity>

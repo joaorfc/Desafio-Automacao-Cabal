@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT04 - F.Alternativo - Realizar Cadastro com E-mail inválido</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2932480d-f677-41f2-9da6-71c778a34579</testCaseGuid>
+</TestCaseEntity>
